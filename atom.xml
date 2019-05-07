@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-07T15:29:11.427Z</updated>
+  <updated>2019-05-07T15:51:54.132Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/sf/index/"/>
     <id>http://yoursite.com/sf/index/</id>
     <published>2019-05-06T16:00:00.000Z</published>
-    <updated>2019-05-07T15:29:11.427Z</updated>
+    <updated>2019-05-07T15:51:54.132Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="如何有效学习算法和数据结果？"><a href="#如何有效学习算法和数据结果？" class="headerlink" title="如何有效学习算法和数据结果？"></a>如何有效学习算法和数据结果？</h3><p>书籍：Outliers 异类-不一样的成功启示录</p><ol><li>切碎知识点</li><li>刻意练习</li><li>反馈</li></ol><p><img src="/sf/index/datameta.png" alt=""><br><img src="/sf/index/keys.png" alt=""></p><h3 id="面试切题四部："><a href="#面试切题四部：" class="headerlink" title="面试切题四部："></a>面试切题四部：</h3><ol><li>审题</li><li>列出所有可能（比较时间空间，不断优化算法）</li><li>写代码</li><li>写测试案例</li></ol><h3 id="复杂度计算："><a href="#复杂度计算：" class="headerlink" title="复杂度计算："></a>复杂度计算：</h3><p>斐波拉契数的算法复杂度：看计算f(5)用多少次f(6)多少次</p><p><img src="/sf/index/fib.png" alt=""><br>所以是O(2^n)</p><p>Master Theorem（主定律）：</p><p><img src="/sf/index/mastertheorem.png" alt=""></p><h3 id="LeetCode"><a href="#LeetCode" class="headerlink" title="LeetCode"></a>LeetCode</h3><ol><li>做题</li><li>复杂度</li><li>编译器</li></ol><p>做完看solution反馈，学习优秀代码</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="如何有效学习算法和数据结果？"><a href="#如何有效学习算法和数据结果？" class="headerlink" title="如何有效学习算法和数据结果？"></a>如何有效学习算法和数据结果？</h3><p>书籍：Outliers 异类-不一样的成功启示录</p><ol><li>切碎知识点</li><li>刻意练习</li><li>反馈</li></ol><p><img src="/sf/index/datameta.png" alt=""><br><img src="/sf/index/keys.png" alt=""></p><h3 id="面试切题四部"><a href="#面试切题四部" class="headerlink" title="面试切题四部"></a>面试切题四部</h3><ol><li>审题</li><li>列出所有可能（比较时间空间，不断优化算法）</li><li>写代码</li><li>写测试案例</li></ol><h3 id="复杂度计算："><a href="#复杂度计算：" class="headerlink" title="复杂度计算："></a>复杂度计算：</h3><p>斐波拉契数的算法复杂度：看计算f(5)用多少次f(6)多少次</p><p><img src="/sf/index/fib.png" alt=""><br>所以是O(2^n)</p><p>Master Theorem（主定律）：</p><p><img src="/sf/index/mastertheorem.png" alt=""></p><h3 id="LeetCode"><a href="#LeetCode" class="headerlink" title="LeetCode"></a>LeetCode</h3><ol><li>做题</li><li>复杂度</li><li>编译器</li></ol><p>做完看solution反馈，学习优秀代码</p>]]></content>
     
     <summary type="html">
     
